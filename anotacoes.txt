@@ -12,3 +12,24 @@ Como navegar entre pastas dentro do gitbash
 
 ver conteúdo da pasta
 	* ls
+
+---------
+passo a passo para enviar um commit para o repositório com comandos
+
+no git Bash, na pasta do projeto
+
+git status
+Verifica arquivos não incluídos no que será enviado no commit
+
+git add <file>
+Inclui o arquivo no que será enviado no commit
+
+git status
+novamente para conferir
+
+git commit -m 'comentário'
+Faz o commit adicionando a mensagem
+
+git push
+Faz o push para o github. No Windows, abre-se uma tela de login no github. Se estiver logado no github pode-se autorizar o acesso
+
