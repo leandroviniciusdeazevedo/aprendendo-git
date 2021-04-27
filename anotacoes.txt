@@ -12,5 +12,3 @@ Como navegar entre pastas dentro do gitbash
 
 ver conteúdo da pasta
 	* ls
-
-Modificação
