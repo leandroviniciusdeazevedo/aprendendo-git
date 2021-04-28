@@ -33,3 +33,4 @@ Faz o commit adicionando a mensagem
 git push
 Faz o push para o github. No Windows, abre-se uma tela de login no github. Se estiver logado no github pode-se autorizar o acesso
 
+Pronto!
