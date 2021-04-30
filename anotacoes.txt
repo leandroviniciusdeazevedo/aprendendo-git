@@ -39,3 +39,11 @@ Pronto!
 
 git checkout -b <branch_name> - cria uma nova branch
 git checkout <branch_name> - vai para uma branch especifica
+
+passo a passo para fazer o merge
+
+git checkout main
+git pull origin
+git merge <branch_name> - nesse exemplo vai ser A100
+vai abrir uma mensagem que pode ser fechada
+git push origin
